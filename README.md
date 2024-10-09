@@ -1,5 +1,6 @@
 # wp_sites
 improving the website with wordpress
+mirozanpilic.com
 
 <img width="1440" alt="Ekran Resmi 2024-10-09 15 29 20" src="https://github.com/user-attachments/assets/d81cb159-647a-4319-bc53-b3baf5313b48">
 <img width="1440" alt="Ekran Resmi 2024-10-09 15 29 25" src="https://github.com/user-attachments/assets/ac4704c4-0114-4c58-8916-bb4b39b84dcb">
