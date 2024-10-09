@@ -1,5 +1,6 @@
-# wp_sites<a href="mirozanpilic.com</a>
-<p>improving the website with wordpress</p>
+# wp_sites
+<a href="mirozanpilic.com</a>
+
 
 
 <img width="1440" alt="Ekran Resmi 2024-10-09 15 29 20" src="https://github.com/user-attachments/assets/d81cb159-647a-4319-bc53-b3baf5313b48">
